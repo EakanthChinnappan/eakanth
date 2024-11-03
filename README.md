@@ -12,12 +12,24 @@ Welcome to my GitHub profile! I'm an entrepreneur and project manager with a str
 ---
 
 ### 🔧 Technologies & Skills
-- **Programming**: Python (Primary language for AI/ML projects)
-- **AI/ML Libraries**: scikit-learn, OpenCV, Tesseract OCR, Detectron2 (for computer vision applications)
-- **Data Visualization**: Matplotlib, Streamlit (for interactive dashboards and data insights)
-- **Web Development**: Flask (backend development for AI applications), WordPress (integration and deployment)
-- **Data & Deployment**: Roboflow (data annotation), Jupyter Notebook, Anaconda (development environments)
-- **Other Tools**: Jira, ServiceNow (project management), UMANG app (for accessing PF details)
+
+**Programming Languages & Tools:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-5C3EE8?style=for-the-badge&logo=tesseract-ocr&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-FF6F00?style=for-the-badge&logo=detectron2&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**Project Management & Other Tools:**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00ADEF?style=for-the-badge&logo=servicenow&logoColor=white)
+![UMANG](https://img.shields.io/badge/UMANG-0073CF?style=for-the-badge)
 
 ---
 
@@ -33,6 +45,7 @@ Welcome to my GitHub profile! I'm an entrepreneur and project manager with a str
 - **Career Growth in AI**: As I work on advancing my AI expertise, I’m looking for opportunities that align with my passion for AI and technology’s role in construction.
 - **Exploring International Markets**: Planning to expand services to the USA and Canada, aiming to provide advanced estimation solutions and rebar detailing services.
 - **Building for the Future**: My vision is to contribute to an AI-driven transformation in the construction industry, addressing pain points with innovative solutions and moving towards scalable, revenue-generating products.
+
 
 ---
 
